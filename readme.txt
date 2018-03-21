@@ -6,3 +6,4 @@
 你真好玩 我有点喜欢你了 
 I think i like you
 but i know you might dislike me
+ok。let study git。
